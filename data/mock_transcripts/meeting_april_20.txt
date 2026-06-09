@@ -1,0 +1,33 @@
+Meeting: Monthly Operational Review
+Date: 2026-04-20
+Attendees: Sarah Chen, John Okafor, Priya Sharma, Mark Williams, 
+           David Park (CTO)
+
+---
+
+David: Let us go through open items.
+
+Sarah: API redesign is almost done, on target for April 30. Good news.
+
+Sarah: Budget request is still pending. Priya, update?
+
+Priya: I sent a follow-up on April 5. Got a response that the committee 
+       meets again on April 28. They will review it then.
+
+David: This has been pending since February. Why does it take this long?
+
+Priya: The committee needs three approvals. Two of the three members 
+       have been traveling.
+
+David: Decision: I will personally raise this in the executive review 
+       on April 22. Priya, send me the proposal summary today.
+
+Priya: Will do.
+
+Sarah: The monitoring tool vendor decision is also still unresolved. 
+       Nobody took ownership at the April 2 meeting.
+
+David: Decision: John, you own the monitoring tool decision. 
+       Give me a vendor recommendation by May 5. Non-negotiable.
+
+John: Understood. I will review the evaluation docs this week.
