@@ -39,5 +39,3 @@ Python 3.11, FastAPI, Azure AI Foundry, Azure AI Search, Azure OpenAI, HTML/CSS/
 
 
 
-with open("data/mock_transcripts/meeting_march_15.txt") as f:
-    t = f.read()
