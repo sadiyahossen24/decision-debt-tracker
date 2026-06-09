@@ -1,0 +1,31 @@
+Meeting: Product Strategy Sync
+Date: 2026-05-05
+Attendees: Sarah Chen, John Okafor, Priya Sharma
+
+---
+
+Sarah: API redesign shipped on April 28. Great work John.
+
+Sarah: Budget request status?
+
+Priya: The executive review happened April 22. David raised it. 
+       The committee said they need a revised cost breakdown because 
+       infrastructure costs have changed since February.
+
+Sarah: So it is back to revision stage. Decision: Priya prepares the 
+       revised cost breakdown and resubmits by May 12.
+
+Priya: This is the third version of this request. Understood.
+
+Sarah: Monitoring tool vendor, John?
+
+John: I reviewed the options. My recommendation is Datadog. 
+      But I need Priya to confirm the budget allocation before 
+      I can formally commit.
+
+Priya: That depends on the infrastructure budget getting approved, 
+       which is still pending.
+
+Sarah: So these two are now blocking each other.
+       Decision: Both items escalated to David directly. 
+       Sarah sets up the meeting with David by May 7.
