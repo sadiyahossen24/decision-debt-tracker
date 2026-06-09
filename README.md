@@ -1,4 +1,4 @@
-##Decision Debt Radar
+## Decision Debt Radar
 
 Organizations make decisions every week. Most never get implemented.
 Decision Debt Radar is a multi-agent system built on Azure AI Foundry
